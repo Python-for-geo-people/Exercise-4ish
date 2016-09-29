@@ -82,11 +82,11 @@ Upload your updated _temp_converter.py_ -script to your personal GitHub reposito
 
 ## Problem 1 - Answers to questions
 
-### 1. 
+### 1. I would love to say that I do but as they clearly do not work I cannot make such claim. 
 
-### 2.
+### 2. Makes life easier? Oh the irony. 
 
-### 3. 
+### 3. Yes it matters. Computers don't jump to conclusions. 
 
 
 
